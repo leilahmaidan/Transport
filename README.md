@@ -28,7 +28,7 @@ Below are all people I spoke to for the artcile:
 1. Tali Haleua, founder of Fuelogistics, freight company
 2. Mickey Blashfield, president and CEO of the Michigan Trucking Association
 3. Garland Hutson, manager at CM Truckbeds, a company that supplies bodies for trucks.
-4. A public relations associate at DAT Freight Analytics
+4. A public relations associate at DAT Freight Analytics 
 
 ## What is the maximum (best) story possible? What's the minimum (fallback) story if your hypothesis doesn't prove out?
 
