@@ -1,18 +1,16 @@
-# Write your headline here
+# Trucking Takes The Long Winding Road Downwards 
+
 
 ### Write your nutgraf here
 
-Make sure your pitch answers the following questions:
+More than half a million jobs in transportation and warehousing were lost in April. The unemployment rate for the sector rose to 13.5% for the same month, according to the Bureau of Labor Statistics. The industry began struggling in February, when factory shutdowns in China caused supply chain backups and eventually a drop in goods moving across the U.S. Then the lockdowns hit North America, causing the industry to take a second hit when businesses shut down and shipping demand dropped even further. 
 
-- Why this story is relevant ("So what?) and why now?
-- What is the single question your story tries to answer?
-- Why will this story resonate with your audience?
 
 What else has been done on this topic (provide links)? How is your angle different or fresh?
 
-- [Related headline (NYT)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
-- [Related headline (NPR)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
-- [Related headline (WNYC)](https://www.nytimes.com/2020/03/09/upshot/coronavirus-oil-prices-bond-yields-recession.html)
+- [Truckers hit by coronavirus pandemic face rocky road to recovery (Reuters)](https://www.reuters.com/article/us-health-coronavirus-trucking/truckers-hit-by-coronavirus-pandemic-face-rocky-road-to-recovery-idUSKBN22Q1J5)
+- [Industries hit hardest by coronavirus in the US include retail, transportation, and travel (USA Today)](https://www.usatoday.com/story/money/2020/03/20/us-industries-being-devastated-by-the-coronavirus-travel-hotels-food/111431804/)
+- [How Hard Could Coronavirus Hit Supply Chains? It Depends On What Truckers Decide (WNYC)](https://www.bisnow.com/south-florida/news/economy/truckers-economy-coronavirus-103429)
 
 Describe how and where you found the data with links to sources. Put the raw data (csv format) in a folder called `data` in this folder. Make a folder called `notebooks` where you will write your pandas code.
 
